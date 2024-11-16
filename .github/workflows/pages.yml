@@ -32,7 +32,10 @@ jobs:
       - name: Build
         run: npm run build
       - name: Build Theme
-        run: git clone git@github.com:derecknowayback/hexo-theme-cactus.git themes/cactus
+        uses: actions/checkout@master
+        with:
+          name: derecknowayback/hexo-theme-cactus
+          path: ./themes/cactus
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
