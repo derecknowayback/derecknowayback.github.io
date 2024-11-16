@@ -34,7 +34,7 @@ jobs:
       - name: Build Theme
         uses: actions/checkout@master
         with:
-          name: derecknowayback/hexo-theme-cactus
+          repository: derecknowayback/hexo-theme-cactus
           path: ./themes/cactus
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
