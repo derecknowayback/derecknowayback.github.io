@@ -13,7 +13,7 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           # If your repository depends on submodule, please see: https://github.com/actions/checkout
-          submodules: recursive
+          submodules: true
       - name: Use Node.js 17.0
         uses: actions/setup-node@v4
         with:
@@ -30,12 +30,7 @@ jobs:
       - name: Install Dependencies
         run: npm install  
       - name: Build
-        run: npm run build
-      - name: Build Theme
-        uses: actions/checkout@master
-        with:
-          repository: derecknowayback/hexo-theme-cactus
-          path: ./themes/cactus
+        run: npm run build            
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
