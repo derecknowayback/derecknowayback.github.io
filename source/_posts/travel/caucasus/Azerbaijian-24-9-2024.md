@@ -162,7 +162,7 @@ categories:
 
 ![IMG_5841](https://img.picgo.net/2024/11/19/IMG_58411b9d2f6aa2afc0cc.png)
 
-<center><i style="color: gray;">Baylar清真寺</center>
+<center><i style="color: gray;">Baylar清真寺</i></center>
 
 
 
@@ -170,7 +170,7 @@ categories:
 
 ![IMG_5845](https://img.picgo.net/2024/11/19/IMG_584506e02e4fbea88ff2.png)
 
-<center><i style="color: gray;">艺术家的工作室</center>
+<center><i style="color: gray;">艺术家的工作室</i></center>
 
 这个涂鸦，从正面看是老虎，从侧面看是狼，从上面看是一只鹰。
 
@@ -178,13 +178,13 @@ categories:
 
 ![IMG_5843](https://img.picgo.net/2024/11/19/IMG_5843063123d509dbc687.png)
 
-<center><i style="color: gray;">女人们在墙上用空红记录自己来过</center>
+<center><i style="color: gray;">女人们在墙上用空红记录自己来过</i></center>
 
 
 
 ![IMG_5864](https://img.picgo.net/2024/11/19/IMG_5864f3908bf513e00d44.png)
 
-<center><i style="color: gray;">诗人 Aliage Vahid 广场</center>
+<center><i style="color: gray;">诗人 Aliage Vahid 广场</i></center>
 
 
 
@@ -192,7 +192,7 @@ categories:
 
 ![IMG_5846](https://img.picgo.net/2024/11/19/IMG_58468e6043a409fce5ec.png)
 
-<center><i style="color: gray;">宫殿导览图</center>
+<center><i style="color: gray;">宫殿导览图</i></center>
 
 
 
@@ -214,14 +214,13 @@ categories:
 	</td>
   </tr>
 </table>
-
-<center><i style="color: gray;">宫殿藏品</center>
+<center><i style="color: gray;">宫殿藏品</i></center>
 
 
 
 ![IMG_5862](https://img.picgo.net/2024/11/19/IMG_58625e05c440d6d782f0.png)
 
-<center><i style="color: gray;">伊斯兰陵墓 地下</center>
+<center><i style="color: gray;">伊斯兰陵墓 地下</i></center>
 
 
 
@@ -239,7 +238,7 @@ categories:
 
 ![IMG_5868](https://img.picgo.net/2024/11/19/IMG_58685726de0a84a87b7a.png)
 
-<center><i style="color: gray;">优雅的老人在弹奏钢琴</center>
+<center><i style="color: gray;">优雅的老人在弹奏钢琴</i></center>
 
 
 
@@ -247,7 +246,7 @@ categories:
 
 ![IMG_5870](https://img.picgo.net/2024/11/19/IMG_5870126abd034d4ba7a9.png)
 
-<center><i style="color: gray;">⛲️</center>
+<center><i style="color: gray;">⛲️</i></center>
 
 
 
@@ -257,7 +256,7 @@ categories:
 
 ![地毯博物馆](https://dimg04.c-ctrip.com/images/0ww2l12000ar73cd9767A_R_1600_10000.jpg)
 
-<center><i style="color: gray;">地毯博物馆外景</center>
+<center><i style="color: gray;">地毯博物馆外景</i></center>
 
 阿塞拜疆国家地毯博物馆成立于1967年，被公认是世界上最古老的地毯博物馆，最初位于巴库老城的朱马清真寺，1992年苏联解体后，它被重新安置到巴库博物馆中心。
 
@@ -281,8 +280,7 @@ categories:
 	</td>
   </tr>
 </table>
-
-<center><i style="color: gray;">满墙的魔法毯子⭐️</center>
+<center><i style="color: gray;">满墙的魔法毯子⭐️</i></center>
 
 这里的地毯的原材料多是羊毛，经过纯手工织造而成。
 
@@ -290,7 +288,7 @@ categories:
 
 ![IMG_5875](https://img.picgo.net/2024/11/19/IMG_58759ea7f4c5f87a6473.png)
 
-<center><i style="color: gray;">🐲Dragon</center>
+<center><i style="color: gray;">🐲Dragon</i></center>
 
 由于位于丝绸之路上，巴库吸收了从东方传来的龙文化，可以在日常生活中看到龙的地毯和雕饰。
 
@@ -304,13 +302,13 @@ categories:
 
 ![IMG_5871 (1)](https://img.picgo.net/2024/11/19/IMG_5871-1271d5fc3a24b0cbf.png)
 
-<center><i style="color: gray;">🚠</center>
+<center><i style="color: gray;">🚠</i></center>
 
 
 
 ![IMG_5881](https://img.picgo.net/2024/11/19/IMG_58810cac30699cc27578.png)
 
-<center><i style="color: gray;">勇士屠龙</center>
+<center><i style="color: gray;">勇士屠龙</i></center>
 
 
 
@@ -334,7 +332,7 @@ categories:
 
 ![IMG_5882](https://img.picgo.net/2024/11/19/IMG_588281ac24637747a53b.png)
 
-<center><i style="color: gray;">阿塞拜疆国家议会堂</center>
+<center><i style="color: gray;">阿塞拜疆国家议会堂</i></center>
 
 
 
